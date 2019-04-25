@@ -1,0 +1,1 @@
+# I like the ruby-doc.org.  I tried a couple of other ones but ruby-doc.org was the one that was the most direct when I tried to search for something.  Other APIs seemed to sometimes take you in circles or I would need to install onto my computer.

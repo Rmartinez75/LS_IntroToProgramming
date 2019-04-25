@@ -1,0 +1,1 @@
+# The major difference is that an array is an ordered list by indexes beginning with 0, while a hash is a key/value list. To call a value in an array you would use the index and to call a value in a hash you would use the key or vice versa.
